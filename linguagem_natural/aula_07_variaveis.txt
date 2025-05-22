@@ -1,0 +1,29 @@
+01 - escreva um algoritimo que calcule a soma de dois numeros inteiros
+
+    1. Ler ou pegar esses dois numeros;
+    2. Calculo a soma desses numeros;
+
+2 - Escreva um algoritimo que calcule a soma de dois numeros inteiros e mostre o resultado.
+    1. Ler ou pegar esses dois numeros;
+    2. Calculo a soma desses numeros;
+    3. mostro o resultado desse calculo.
+
+3 - Escreva um algoritimo que leia dois numeros inteiros 'a' e 'b', calcule a soma deles e mostre o resultado.
+
+    1. leia os numeros 'a' e'b';
+    2. calcule a soma de 'a' mais 'b';
+    3. mostre o resultado dessa soma.
+
+    refinando o 'codigo':
+
+    1. leia os numeros [a] e [b];
+    2. calcule a soma de [a] e [b];
+    3. mostre o resultado dessa soma.
+
+    refinando o 'codigo':
+
+     1. leia os numeros [a] e [b];
+     2. calcule a [soma] = [a] + [b];
+     3. mostre a [soma]
+
+
