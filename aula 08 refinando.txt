@@ -1,1 +1,17 @@
+DIFERENÇA
+
+1. Leia os números [a] e [b];
+2. Calcule a [diferença] = [a] - [b];
+3. Mostre [diferença].
+
+PRODUTO
+1. Leia os números inteiros [a] e [b];
+2. Calcule a [multiplicação] = [a] x [b];
+3. mostre [multiplicação].
+
+DIVISÃO
+1. leia os números [a] e [b];
+2. calcule a [divisão] = [a] / [b];
+3. mostre [quociente].
+
 
